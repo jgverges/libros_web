@@ -1,0 +1,40 @@
+CURSO HTML5------------
+    1-Introducción 
+    
+    2-Aspectos básicos  
+  
+    3-Formato básico  
+   
+    4-Enlaces    
+   
+    5-Multimedia   
+    
+    6-Maquetación    
+
+    7-Organización de la información  
+   
+    8-Publicación    
+    
+    9-Hojas de estilo    
+    
+    10-Diseño web con estilos   
+   
+    11-Maquetación con estilos   
+ 
+    12-Formularios y Javascript  
+    
+    13-Técnicas avanzadas   
+    
+    14Contenidos extra   
+
+DISEÑO DE PAGINAS WEB--------
+
+  
+1-Introdución a internet
+2-creación de páginas WEB en HTML
+3-Publicación y mantenimiento de un sitio WEB
+4-JAVA
+5-HTML avanzado
+6-Multimedia y gráficos para web
+
+ 
